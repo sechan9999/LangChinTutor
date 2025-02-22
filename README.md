@@ -1,4 +1,4 @@
-# LangChinTutor
+# LangChainTutor
 # I have completed this LangChain class with DeepLearning.AI and Coursera.
 
 #LangChain for LLM Application Development
@@ -16,4 +16,4 @@
 #https://learn.deeplearning.ai/accomplishments/5eee9000-5b4a-4f04-9378-66dd470b76ef
 
 #All information regarding the sessions can be found on GitHub repository at https://github.com/vanderbilt-data-science/ai_summer. You’ll find the outline, course materials and more.
-#Have fun!
+# Have fun!
